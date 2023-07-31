@@ -13,7 +13,7 @@ import salesRoutes from "./routes/sales.js";
 //data imports
 import User from "./models/User.js";
 // import {
-//   dataUser,
+  // dataUser,
 //   dataProduct,
 //   dataProductStat,
 //   dataTransaction,
