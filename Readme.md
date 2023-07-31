@@ -1,6 +1,6 @@
 # Admin Dashboard for E-commerce | MERN Stack, Redux Toolkit, Material UI
 
-![Admin Dashboard](https://admin-dashboard-client-e5vi.onrender.com/dashboard)
+[Admin Dashboard](https://admin-dashboard-client-e5vi.onrender.com/dashboard)
 
 This repository contains the code for an Admin Dashboard for an E-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The dashboard provides a user-friendly interface for managing various aspects of the E-commerce platform.
 
