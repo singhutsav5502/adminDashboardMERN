@@ -1,8 +1,9 @@
 # Admin Dashboard for E-commerce | MERN Stack, Redux Toolkit, Material UI
 
 [Admin Dashboard Deployment](https://admin-dashboard-client-e5vi.onrender.com/dashboard)
+
 **Note:**
-    - Web service gets turned off after 15 minutes of no usage. Initial launch takes 10-15 seconds for restart of backend web service.
+Web service gets turned off after 15 minutes of no usage. Initial launch takes 10-15 seconds for restart of backend web service.
 
 This repository contains the code for an Admin Dashboard for an E-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The dashboard provides a user-friendly interface for managing various aspects of the E-commerce platform.
 
